@@ -34,16 +34,16 @@ nav {
 
 .card--image {
     width: 130px;
-    height: 200px;
+    height: 260px;
     border-radius: 7px;
     object-fit: cover;
 }
 
 .card {
-    width: 470px;
-    max-width: 470px;
+    width: 360px;
+    max-width: 360px;
     /* height: 200px; */
-    max-height: 240px;
+    max-height: 300px;
     display: flex;
     padding: 20px;
     gap: 20px;
@@ -94,7 +94,7 @@ nav {
 
 .card--title {
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 150%;
     word-wrap: break-word;
 }
@@ -113,7 +113,7 @@ hr {
   display:block;          
   background-color: lightgray;
   height: 2px;
-  width: 420px;
+  width: 320px;
 }
 
 a {
